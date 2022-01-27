@@ -1,5 +1,5 @@
 config SHIELD_ERGOMAX_LEFT
-    def_bool $(shields_list_contains,my_board_left)
+    def_bool $(shields_list_contains,ergomax_left)
 
 config SHIELD_ERGOMAX_RIGHT
-    def_bool $(shields_list_contains,my_board_right)
+    def_bool $(shields_list_contains,ergomax_right)
