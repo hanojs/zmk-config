@@ -1,0 +1,11 @@
+file_format: "1"
+id: ergomax
+name: ErgoMax
+type: shield
+url: https://github.com/spencjon/zmk-config
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - ergomax_left
+  - ergomax_right
